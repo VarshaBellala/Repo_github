@@ -4,3 +4,4 @@ def fun():
 
 s = fun()
 print(s)
+print('almost done')
